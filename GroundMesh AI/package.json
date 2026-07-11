@@ -1,0 +1,25 @@
+{
+  "name": "groundmesh",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@11.7.0",
+  "engines": {
+    "node": ">=22.11.0"
+  },
+  "scripts": {
+    "dev": "pnpm --filter @groundmesh/web dev",
+    "dev:worker": "pnpm --filter @groundmesh/worker dev",
+    "build": "pnpm -r --if-present build",
+    "lint": "pnpm -r --if-present lint",
+    "typecheck": "pnpm -r --if-present typecheck",
+    "test": "pnpm -r --if-present test",
+    "test:run": "pnpm -r --if-present test:run",
+    "verify": "pnpm lint && pnpm typecheck && pnpm test:run && pnpm build"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.4"
+  }
+}
