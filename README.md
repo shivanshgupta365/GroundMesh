@@ -1,4 +1,4 @@
-# GroundMesh
+# GroundMesh AI
 
 > **Verified context for every human and agent.**
 
