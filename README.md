@@ -864,13 +864,7 @@ Built by **Shivansh Gupta** for the Cerebral Valley × Google DeepMind Bangalore
 
 ## License
 
-Choose and add a license before public release.
-
-Recommended options:
-
-- **Apache-2.0** for broad open-source use with an explicit patent grant;
-- **MIT** for maximum simplicity;
-- **Business Source License** if commercial-use restrictions are required.
+- **Business Source License** commercial-use restrictions are required.
 
 ---
 
