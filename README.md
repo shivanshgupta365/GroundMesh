@@ -10,8 +10,30 @@ Built for the **Cerebral Valley × Google DeepMind Bangalore Hackathon**.
 
 ---
 
+
+## Demo Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=5btGUtNa9Ks">
+    <img
+      src="https://img.youtube.com/vi/5btGUtNa9Ks/maxresdefault.jpg"
+      alt="GroundMesh Demo Video"
+      width="900"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>▶ Watch the GroundMesh demo</strong>
+</p>
+
+> GitHub README files do not support embedded YouTube players. The preview above is displayed directly in the README and opens the full demo when clicked.
+
+---
+
 ## Table of Contents
 
+- [Demo Video](#demo-video)
 - [The Problem](#the-problem)
 - [What GroundMesh Does](#what-groundmesh-does)
 - [Core Idea](#core-idea)
