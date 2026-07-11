@@ -27,7 +27,7 @@ Built for the **Cerebral Valley × Google DeepMind Bangalore Hackathon**.
   <strong>▶ Watch the GroundMesh demo</strong>
 </p>
 
-> GitHub README files do not support embedded YouTube players. The preview above is displayed directly in the README and opens the full demo when clicked.
+> The preview above is displayed directly in the README and opens the full demo when clicked.
 
 ---
 
